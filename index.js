@@ -11,14 +11,49 @@ const questions = [
     },
     {
         type: "input",
-        message: "Enter description",
+        message: "Enter the project description",
         name: "description",
     },
     {
+        type: "input",
+        message: "Enter the command to install dependencies",
+        name: "installation",
+    },
+    {
+        type: "input",
+        message: "Enter the project description",
+        name: "usage",
+    },
+    {
         type: "list",
-        message: "Select your license",
+        message: "Which licence type do you use on the project?",
         name: "license",
         choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"],
+    },
+    {
+        type: "input",
+        message: "How do you contribute to the repo?",
+        name: "contributing",
+    },
+    {
+        type: "input",
+        message: "What command do you use to run tests?",
+        name: "test",
+    },
+    {
+        type: "input",
+        message: "What is your email address?",
+        name: "email",
+    },
+    {
+        type: "input",
+        message: "What is your github name?",
+        name: "github",
+    },
+    {
+        type: "input",
+        message: "Enter a year of the license",
+        name: "year",
     },
 
 ];
