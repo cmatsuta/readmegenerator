@@ -1,7 +1,7 @@
-# homework9
+# Homework 9
 
 ## Description
-to generate readme file
+Develop an app to generate README file
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,19 +12,19 @@ to generate readme file
 * [Questions](#questions)
 
 ## Installation
-node
+npm install
 
 ## Usage
-
+npm i
 
 ## Contributing
-git pull
+click to open and fill in the pull request
 
 ## Tests
-npm
+npm i
 
 ## Questions
-If you have any comments, please contact at npm. 
+If you have any comments, please contact at cmatsuta@jbs.com. 
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
