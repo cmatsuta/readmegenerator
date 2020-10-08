@@ -26,7 +26,7 @@ ${data.contributing}
 ${data.test}
 
 ## Questions
-If you have any comments, please contact at ${data.test}. 
+If you have any comments, please contact at ${data.email}. 
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)

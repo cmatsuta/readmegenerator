@@ -21,7 +21,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Enter the project description",
+        message: "How do you use this app?",
         name: "usage",
     },
     {
